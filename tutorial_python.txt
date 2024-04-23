@@ -9,3 +9,9 @@ O Python é uma linguagem de programação amplamente usada em aplicações da W
 Acesso ao site oficial: Acesse o site oficial do Python em https://www.python.org/downloads/ e selecione a versão correta do Python para o seu sistema operacional (Windows, macOS ou Linux).
 Escolhendo a versão: Certifique-se de baixar a versão Python 3.x, pois é a versão mais recente e com amplo suporte.
 Download do arquivo: Clique no botão de download para baixar o arquivo de instalação do Python.
+
+2. Instalação:
+
+Executando o instalador: Após o download, execute o arquivo de instalação clicando duas vezes nele.
+Seguindo instruções: Siga as instruções na tela para concluir a instalação.
+Opção de adicionar ao PATH: Marque a opção para adicionar o Python ao seu PATH durante a instalação. Isso permitirá que você execute o Python a partir de qualquer lugar no seu terminal.

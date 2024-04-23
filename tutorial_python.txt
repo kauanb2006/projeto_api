@@ -4,4 +4,8 @@ O Python é uma linguagem de programação amplamente usada em aplicações da W
  Os desenvolvedores usam o Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes. O
 
 
- 
+ 1. Download:
+
+Acesso ao site oficial: Acesse o site oficial do Python em https://www.python.org/downloads/ e selecione a versão correta do Python para o seu sistema operacional (Windows, macOS ou Linux).
+Escolhendo a versão: Certifique-se de baixar a versão Python 3.x, pois é a versão mais recente e com amplo suporte.
+Download do arquivo: Clique no botão de download para baixar o arquivo de instalação do Python.

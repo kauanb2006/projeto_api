@@ -15,3 +15,27 @@ Explicação:
 
 O comando virtualenv cria um diretório chamado "meu_ambiente_virtual" que contém a interpretadora Python isolada e outras bibliotecas necessárias para o ambiente virtual.
 O nome do ambiente virtual pode ser personalizado de acordo com sua preferência.
+
+
+
+Passo 2: Ativando o Ambiente Virtual
+
+Para ativar o ambiente virtual, execute o seguinte comando apropriado para o seu sistema operacional:
+
+Windows:
+Bash
+meu_ambiente_virtual\Scripts\activate
+Use o código com cuidado.
+macOS/Linux:
+Bash
+source meu_ambiente_virtual/bin/activate
+Use o código com cuidado.
+Você notará que o prompt do seu terminal muda para indicar que o ambiente virtual está ativo. O nome do ambiente virtual geralmente será exibido entre parênteses antes do diretório de trabalho atual.
+
+Explicação:
+
+O comando activate ativa o ambiente virtual, permitindo que você execute scripts Python e use bibliotecas instaladas dentro do ambiente.
+O prompt do terminal muda para indicar que você está trabalhando no ambiente virtual.
+Parabéns!
+
+Você já criou e ativou um ambiente virtual Python em apenas dois passos. Agora você pode instalar pacotes específicos para o seu projeto e trabalhar de forma isolada, sem afetar bibliotecas instaladas globalmente.

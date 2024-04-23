@@ -1,3 +1,17 @@
 "Iniciando tutorial virtualenv"
 Virtualenvs são uma forma de isolar diversos ambientes de desenvolvimento, assim permitindo ao programador utilizar versões específicas de diversos 
 pacotes sem impactar instalações de outras aplicações ou sistemas.
+
+
+Passo 1: Criando o Ambiente Virtual
+
+Abra o prompt de comando (Windows) ou terminal (macOS/Linux).
+Navegue até o diretório do seu projeto Python usando o comando cd.
+Execute o seguinte comando, substituindo "meu_ambiente_virtual" pelo nome desejado para o seu ambiente:
+Bash
+virtualenv meu_ambiente_virtual
+Use o código com cuidado.
+Explicação:
+
+O comando virtualenv cria um diretório chamado "meu_ambiente_virtual" que contém a interpretadora Python isolada e outras bibliotecas necessárias para o ambiente virtual.
+O nome do ambiente virtual pode ser personalizado de acordo com sua preferência.

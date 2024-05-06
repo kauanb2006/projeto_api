@@ -82,3 +82,54 @@ share
 
 
 more_vert
+Resumo dos Desafios
+Desafio 1: Criando Arquivo LEIAME.md e Configurando Branch e Git Remote
+1. Criar Arquivo LEIAME.md:
+
+Crie um arquivo chamado LEIAME.md no diretório algoritmos.
+Inclua uma descrição do diretório, organização dos algoritmos por temas, e um exemplo de estrutura.
+Salve o arquivo.
+2. Commit do Arquivo LEIAME.md:
+
+Adicione o arquivo ao Git usando git add LEIAME.md.
+Faça o commit com a mensagem "Arquivo LEIAME.md descreve o que o diretório faz".
+3. Criar Branch tutorial_configuracao:
+
+Crie um novo branch chamado tutorial_configuracao usando git checkout -b tutorial_configuracao.
+4. Criar Passo a Passo para Configurar o Git Remote:
+
+No LEIAME.md, adicione uma seção "Configurando o Git Remote".
+Inclua um passo a passo detalhado para o usuário configurar o Git Remote e sincronizar com o repositório remoto (GitHub ou outro).
+Adapte o passo a passo de acordo com o provedor de repositório remoto.
+Inclua capturas de tela ou instruções detalhadas.
+Desafio 2: Documentação da API Flask
+Funcionalidade:
+
+A API Flask fornece três rotas (endpoints):
+/: Retorna JSON com status 200 e mensagem contendo seu nome completo.
+/aleatorios: Gera um número aleatório entre 49 e 100 e retorna em JSON.
+/argumentos/<string:nome>: Captura um argumento de nome e retorna em JSON.
+Código:
+
+Importa Flask e jsonify.
+Cria a instância da aplicação Flask (app).
+Define as rotas usando o decorador @app.route.
+Cada rota possui uma função que manipula a solicitação e retorna JSON.
+O script verifica se está sendo executado diretamente e executa a aplicação em modo debug.
+Observações:
+
+Este resumo fornece uma visão geral dos desafios. Para mais detalhes, consulte as instruções completas.
+Melhorias:
+
+O resumo poderia incluir links para a documentação completa dos desafios.
+Seria interessante destacar os pontos-chave de cada desafio.
+O resumo poderia ser formatado para melhor legibilidade.
+
+
+
+tune
+
+share
+
+
+more_vert

@@ -15,6 +15,4 @@ def aleatorios():
 def argumentos (nome: str):
   return jsonify ({ "status" : 200 ,"data " : nome })
 
-if __name__ == "__main__":
-  bp.run(debug=True)
 

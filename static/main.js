@@ -1,4 +1,4 @@
-
++
 // Events
 
 function load_data(url, target) {
